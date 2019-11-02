@@ -62,7 +62,8 @@ Sub VBA_Homework()
         Next i
 
         Dim n As Integer
-        Dim Max_Inc, Min_Dec As Long
+        Dim Max_Inc As Long
+        Dim Min_Dec As Long
         Dim Max_Vol As Double
         Max_Inc = 0
         Min_Dec = 0
